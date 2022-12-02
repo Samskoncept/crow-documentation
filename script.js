@@ -1,5 +1,5 @@
 let start = "Welcome";
 
-//alert("Welcome");
+alert("Welcome");
 
 
